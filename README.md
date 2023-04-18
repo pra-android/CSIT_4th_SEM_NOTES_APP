@@ -1,16 +1,35 @@
-# csit4thsemnotes
+# BSC.CSIT 4TH SEMESTER NOTES APP
 
-A new Flutter project.
+## Descriptions:
+It is the BSC.CSIT 4th Semester Notes app which includes chapterwise PDF and also the model questions of every year .The code can be run on both andoird and IOS.
 
-## Getting Started
+### Packages Used:
 
-This project is a starting point for a Flutter application.
+- import 'package:google_fonts/google_fonts.dart';  
 
-A few resources to get you started if this is your first Flutter project:
+It gives user to new fonts in a text widget.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- import 'package:url_launcher/url_launcher.dart';  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ It takes url as an link and reaches user to the destination place.(For Example youtube video/Website link).
+
+- import 'package:new_gradient_app_bar/new_gradient_app_bar.dart';
+
+  It is used to give multiple colors in the app bar. It is used for decoration.
+
+
+- import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
+
+ It is an important packages in flutter which provides user to view the pdf easily.
+
+
+#### OUTPUT
+https://user-images.githubusercontent.com/82046769/232706978-53b4ed9e-e054-46e0-b629-f850f7cb92de.mp4
+
+
+
+
+
+
+
+
